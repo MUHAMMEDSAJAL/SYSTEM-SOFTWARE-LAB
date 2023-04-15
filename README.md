@@ -1,10 +1,5 @@
 # SYSTEM-SOFTWARE-LAB
 
-[![download](https://img.shields.io/badge/Direct_Download-zip-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/releases/latest)
-[![website](https://img.shields.io/badge/Live-Site-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://ktu-cse.github.io/System-Software-lab/)
-
-B.Tech CSE S5 System Software Lab
-
 Batch: CSE 2k20-24, ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY 
 
 University: APJ Abdul Kalam Technological University
